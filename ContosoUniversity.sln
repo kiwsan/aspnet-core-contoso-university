@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContosoUniversity.WebApi", "ContosoUniversity.WebApi\ContosoUniversity.WebApi.csproj", "{69CA823D-E5CD-4D45-8B3A-19FAAD0921A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContosoUniversity.UnitTests", "ContosoUniversity.UnitTests\ContosoUniversity.UnitTests.csproj", "{776D9B28-03C4-4B3C-BCC9-F166D21448F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContosoUniversity.IntegrationTests", "ContosoUniversity.IntegrationTests\ContosoUniversity.IntegrationTests.csproj", "{66EC9C32-47AB-45D6-94AB-4B7690B574CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69CA823D-E5CD-4D45-8B3A-19FAAD0921A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69CA823D-E5CD-4D45-8B3A-19FAAD0921A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69CA823D-E5CD-4D45-8B3A-19FAAD0921A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69CA823D-E5CD-4D45-8B3A-19FAAD0921A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{776D9B28-03C4-4B3C-BCC9-F166D21448F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{776D9B28-03C4-4B3C-BCC9-F166D21448F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{776D9B28-03C4-4B3C-BCC9-F166D21448F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{776D9B28-03C4-4B3C-BCC9-F166D21448F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66EC9C32-47AB-45D6-94AB-4B7690B574CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66EC9C32-47AB-45D6-94AB-4B7690B574CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66EC9C32-47AB-45D6-94AB-4B7690B574CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66EC9C32-47AB-45D6-94AB-4B7690B574CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
