@@ -1,1 +1,1 @@
-# aspnet-core-contoso-university
+# ContosoUniversity on ASP.NET with .NET Core
